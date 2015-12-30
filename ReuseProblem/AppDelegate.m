@@ -4,7 +4,7 @@
 //
 //  Created by liuweizhen on 15/9/9.
 //  Copyright (c) 2015年 勇敢的心. All rights reserved.
-//
+//haohaoxuexi buyaofubai mingwandayeshi
 
 #import "AppDelegate.h"
 #import "RootViewController.h"
